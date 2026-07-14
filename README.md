@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samuel Lartey 👋</h1>
-<h3 align="center">Data Engineer | AWS Certified Data Engineer – Associate</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="center">
 I'm a data professional with a background in data analytics and a growing focus on data engineering.<br/>
