@@ -24,7 +24,7 @@ I enjoy building reliable data pipelines, designing cloud-based data platforms, 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuellartey39&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SammyLartey000&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellartey39&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
