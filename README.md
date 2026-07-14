@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samuel Lartey 👋</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Data Engineer | AWS Certified Data Engineer – Associate</h3>
 
 <p align="center">
 I'm a data professional with a background in data analytics and a growing focus on data engineering.<br/>
@@ -25,10 +25,7 @@ I enjoy building reliable data pipelines, designing cloud-based data platforms, 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SammyLartey000&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellartey39&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
-
-> Replace `samuellartey39` above with your actual GitHub username so the stats cards render correctly.
 
 ---
 
