@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel Lartey 👋
 
-### Data Engineer | AWS Certified Data Engineer – Associate
+### Data Engineer
 
 I'm a data professional with a background in data analytics and a focus on data engineering. I enjoy building reliable data pipelines, designing cloud-based data platforms, and transforming raw data into trusted datasets for analytics and decision-making.
 
